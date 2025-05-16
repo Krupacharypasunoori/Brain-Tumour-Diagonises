@@ -150,7 +150,7 @@ def plot_results_conv():
 
 
 if __name__ == '__main__':
-    plot_results_conv()
-    Plot_Results()
+    # plot_results_conv()
+    # Plot_Results()
     Plot_table()
-    ROC_curve()
+    # ROC_curve()
